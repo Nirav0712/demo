@@ -36,7 +36,7 @@ export default function Header() {
                 </div>
             </div>
 
-            {/* Main Header */}
+            {/* Main Header hello*/}
             <header className="bg-white/30 backdrop-blur-md shadow-sm sticky top-0 z-50 transition-all">
                 <div className="container mx-auto px-4">
                     <nav className="flex items-center justify-between py-4">
